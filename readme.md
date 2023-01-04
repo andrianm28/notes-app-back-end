@@ -1,0 +1,1 @@
+# Dicoding Simple Notes App Backend based on Hapi Framework
